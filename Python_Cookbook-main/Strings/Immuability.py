@@ -1,0 +1,2 @@
+#Immutability means that we cannot change the value of a string or an index of a string after assingning the string.
+#Once we assign a string, the only way to change it is to reassign the string to a new variable.
