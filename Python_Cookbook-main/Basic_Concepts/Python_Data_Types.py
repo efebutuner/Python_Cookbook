@@ -30,4 +30,4 @@ print(5 % 4) # Remainder of division
 
 # Math Functions
 print(round(3.1))
-print(abs(-5))
+print(abs(-5)) # We can find all math functions by searching google "Python Math Functions"
