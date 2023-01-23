@@ -1,0 +1,3 @@
+Python can be downloaded from Python.org
+What we download from Python.org is the interpreter that has been written in c language.
+When we write a code in Python language it first goes through the interpreter which converts it into byte code and than it sends the byte code into the cpython virtual machine which will eventually convert our code into the computers language to be compiled on our computer
