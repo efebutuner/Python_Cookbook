@@ -31,3 +31,9 @@ print(5 % 4) # Remainder of division
 # Math Functions
 print(round(3.1))
 print(abs(-5)) # We can find all math functions by searching google "Python Math Functions"
+
+#Complex Data Type
+print(complex(3,4))
+
+#Bin: returns the binary representation of the number inside its brackets
+print(bin(5))
