@@ -21,3 +21,6 @@ my_list = [
 ]
 
 print(my_list[0]['a'][2])
+
+
+#A dictionary has no order so if you want to sort things you should use lists.
