@@ -30,3 +30,10 @@ my_first_list = basket.copy()
 
 basket.reverse()
 print(basket)
+print(basket[::1]) #List slicing makes a copy of the list and prints it
+
+print(list(range(1,100))) #Creates a list starting from 1 all the way to 100
+print(list(range(100))) #Creates a list starting from 0 all the way to 100
+
+sentence = '!'
+new_sentence = sentence.join(['Hi', 'my', 'name', 'is', 'EFE']) # Join adds the first list or character to all of the elements of the second list.
