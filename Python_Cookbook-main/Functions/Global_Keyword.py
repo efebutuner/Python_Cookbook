@@ -14,10 +14,10 @@ print(count())
 
 #Dependency Injection
 
-total = 0
+tot = 0
 
-def count1(total):
-    total += 1
-    return total
+def count1(tot):
+    tot += 1
+    return tot
 
-print(count1(count1(count1(total))))
+print(count1(count1(count1(tot))))
